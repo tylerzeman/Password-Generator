@@ -2,6 +2,8 @@
 
 This week's Challenge requires me to modify starter code to generate random passwords based on certain criteria.
 
+Webpage link: https://tylerzeman.github.io/Password-Generator/
+
 # Project description
 
 I modified the starter code and including the functions and added multiple arrays. I started with when the button is clicked it calls on my prompts function which return
