@@ -11,4 +11,4 @@ textarea box.
 
 # Screenshots of Webpage
 
-![Screenshot](/assets/images/password-generator.png?raw=true "Screenshot")
+![Screenshot](assets/images/password-generator.png?raw=true "Screenshot")
