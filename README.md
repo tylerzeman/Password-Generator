@@ -9,6 +9,6 @@ a new value to randomCharacters after the function is ran. Now after it returns 
 to an empty string which then I recieve a random numbe for randomIndex then I add them together to return a value that will be my newPassword and will write to the
 textarea box.
 
-# Screenshots
+# Screenshots of Webpage
 
 ![Screenshot](/assets/images/password-generator.png?raw=true "Screenshot")
